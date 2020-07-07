@@ -1,0 +1,2 @@
+D:\SEMESTER 2\Pemrogaman\tugas harian\Respon\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+D:\SEMESTER 2\Pemrogaman\tugas harian\Respon\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
